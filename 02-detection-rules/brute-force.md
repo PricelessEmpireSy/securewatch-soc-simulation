@@ -18,4 +18,4 @@ High
 1. Identify source IP  
 2. Block the IP  
 3. Force password reset  
-4. Monitor for recurrence
+4. Monitor for recurrence.
