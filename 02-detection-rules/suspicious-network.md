@@ -17,4 +17,4 @@ Medium
 
 1. Review IP reputation  
 2. Block IP if malicious  
-3. Monitor for escalation
+3. Monitor for escalation.
