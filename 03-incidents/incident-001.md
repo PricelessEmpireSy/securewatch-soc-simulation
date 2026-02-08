@@ -19,4 +19,4 @@ Contained
 
 ## Evidence
 
-- auth.log shows repeated failures within 5 minutes
+- auth.log shows repeated failures within 5 minutes.
