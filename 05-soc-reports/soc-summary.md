@@ -1,44 +1,23 @@
-\# SOC Daily Summary – SecureWatch
+# SOC Daily Summary – SecureWatch
 
+## Incidents Detected
 
-
-\## Incidents Detected
-
-
-
-|**ID**|**TYPE**|**SEVERITY**|**STATUS**|
-|-|-|-|-|
-|001|Brute Force Attack|High|Contained|
-
-
+| ID  | Type               | Severity | Status    |
+| --- | --- | --- |
+| 001 | Brute Force Attack | High     | Contained |
 
 ## Actions Taken
 
+- Blocked malicious IP  
+- Reset compromised credentials  
+- Enabled monitoring  
 
+## Recommendations
 
-\- Blocked malicious IP  
+- Enforce MFA  
+- Improve firewall filtering  
+- Regular log review  
 
-\- Reset compromised credentials  
+## Conclusion
 
-\- Enabled monitoring  
-
-
-
-\## Recommendations
-
-
-
-\- Enforce MFA  
-
-\- Improve firewall filtering  
-
-\- Regular log review  
-
-
-
-\## Conclusion
-
-
-
-Early detection and response prevented potential account compromise
-
+Early detection and response prevented potential account compromise.
