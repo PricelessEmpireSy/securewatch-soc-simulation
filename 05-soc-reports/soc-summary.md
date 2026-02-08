@@ -40,5 +40,5 @@
 
 
 
-Early detection and response prevented potential account compromise.
+Early detection and response prevented potential account compromise
 
